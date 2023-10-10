@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TelodarDesign
-- 👀 I’m interested in Graphics and Apps
+- 👀 I’m interested in Web, Graphics and Apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on RunLife(my app)
 - 📫 How to reach me - sencersenel@outlook.com
